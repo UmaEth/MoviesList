@@ -1,10 +1,11 @@
 {
+    "posts":[
     {
       "id": 1,
       "title": "action",
       "url":"https://via.placeholder.com/600/92c952"
       
-    }
+    },
   
   
     {
@@ -12,7 +13,7 @@
       "title": "action",
       "url":"https://via.placeholder.com/600/771796"
       
-    }
+    },
   
  
     {
@@ -20,7 +21,7 @@
       "title": "love",
       "url":"https://via.placeholder.com/600/24f355"
       
-    }
+    },
   
  
     {
@@ -28,7 +29,7 @@
       "title": "love",
       "url":"https://via.placeholder./600/d32776"
       
-    }
+    },
   
 
     {
@@ -36,7 +37,7 @@
       "title": "drama",
       "url":"https://via.placeholder.com/600/f66b97"
       
-    }
+    },
   
 
     {
@@ -44,7 +45,7 @@
       "title": "drama",
       "url":"https://via.placeholder.com/600/56a8c2"
       
-    }
+    },
   
 
     {
@@ -52,7 +53,7 @@
       "title": "thriller",
       "url":"https://via.placeholder.com/600/b0f7cc"
       
-    }
+    },
   
 
     {
@@ -61,6 +62,7 @@
       "url":"https://via.placeholder.com/600/54176f"
       
     }
+        ]
  
   }
 
